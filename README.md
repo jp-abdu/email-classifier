@@ -53,3 +53,15 @@ O objetivo é **automatizar a leitura de emails**, classificando-os como **Produ
     ```bash
     python app.py
     Acesse no navegador: http://127.0.0.1:7860
+
+## 📂 Estrutura do Projeto
+  ```bash
+  email-classifier/
+  │── app.py              # aplicação principal (Gradio + OpenAI)
+  │── requirements.txt    # dependências
+  │── README.md           # documentação
+  │── samples/            # exemplos de emails
+  │     ├── produtivo1.txt
+  │     ├── produtivo2.txt
+  │     ├── improdutivo1.txt
+  │     └── improdutivo2.txt
