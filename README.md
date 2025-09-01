@@ -79,7 +79,7 @@ email-classifier/
 │── app.py              # aplicação principal (Gradio + OpenAI)
 │── requirements.txt    # dependências
 │── README.md           # documentação
-│── samples/            # exemplos de emails
+│── amostras/            # exemplos de emails
 │     ├── produtivo1.txt
 │     ├── produtivo2.txt
 │     ├── improdutivo1.txt
