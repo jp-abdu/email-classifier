@@ -1,11 +1,10 @@
-# 📧 AutoU Case — Classificador de Emails
+# 📧 Classificador de Emails
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Gradio-orange.svg)
 ![OpenAI](https://img.shields.io/badge/API-OpenAI-green.svg)
 ![Status](https://img.shields.io/badge/Status-Online-success.svg)
 
-Este é o projeto desenvolvido para o **Case Técnico da AutoU** 🚀.
 O objetivo é **automatizar a leitura de emails**, classificando-os como **Produtivos** ou **Improdutivos**, e **sugerir uma resposta automática** para cada caso.
 
 ---
