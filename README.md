@@ -100,19 +100,6 @@ email-classifier/
 
 ---
 
-## 🎥 Vídeo Demonstrativo
-
-🔗 [Clique aqui para assistir ao vídeo](link-do-video)
-
-> O vídeo apresenta:
->
-> * Introdução pessoal e descrição do desafio
-> * Demonstração do upload e classificação de emails
-> * Explicação técnica do algoritmo e das decisões de implementação
-> * Conclusão e aprendizados
-
----
-
 ## 📌 Objetivo do Desafio Simplificado
 
 Desenvolver uma aplicação web simples que utilize inteligência artificial para:
@@ -150,4 +137,3 @@ Desenvolver uma aplicação web simples que utilize inteligência artificial par
 
    * Código-fonte no GitHub com README detalhado
    * Exemplos de emails incluídos
-   * Vídeo demonstrativo com link
